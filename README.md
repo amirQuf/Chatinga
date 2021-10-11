@@ -1,2 +1,2 @@
 # Chatinga
-a chat room that is  writen with Django and Channels
+a chat room that is  written with Django and Channels
